@@ -24,6 +24,4 @@ This project demonstrates core Object-Oriented Programming (OOP) concepts and dy
 - Dynamic data storage using ArrayList
 - Lambda expression (`removeIf`)
 
-## ▶️ How to Run
 
-1. Compile the files:
