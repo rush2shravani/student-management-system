@@ -3,18 +3,18 @@
 A console-based Student Management System developed using Java.  
 This project demonstrates core Object-Oriented Programming (OOP) concepts and dynamic data handling using ArrayList.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - ArrayList
 - OOP (Classes, Objects, Encapsulation, Method Overriding)
 
-## 📂 Project Structure
+##  Project Structure
 
 - `Student.java` – Defines the Student class with attributes and methods
 - `Main.java` – Contains the main menu logic and program execution
 
-## 🧠 Concepts Implemented
+##  Concepts Implemented
 
 - Object-Oriented Programming
 - Encapsulation
